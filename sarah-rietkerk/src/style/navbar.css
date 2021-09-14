@@ -1,0 +1,12 @@
+nav {
+  position: relative;
+  width: 90%;
+  height: 9vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  color: white;
+  padding: 0px 5%;
+  background-color: #265b5f;
+}
